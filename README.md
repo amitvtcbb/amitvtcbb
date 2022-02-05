@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack Web Developement and Data Science.
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ReactJs, NodeJS, MongoDB and Python
-- 📫 How to reach me at amitpatel@vtcbb.edu.in
+- 📫 Reach me at amitpatel@vtcbb.edu.in
 
 <!---
 amitvtcbb/amitvtcbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
