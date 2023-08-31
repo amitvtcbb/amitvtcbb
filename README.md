@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amitvtcbb
-- 👀 I’m interested in Full stack Web Developement and Data Science.
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ReactJs, NodeJS, MongoDB and Python
+- 👀 I’m interested in Python and Data Science.
+- 🌱 I’m currently learning AI/ML.
+- 💞️ I’m looking to collaborate on Python and Data Science.
 - 📫 Reach me at amitpatel@vtcbb.edu.in
 
 <!---
